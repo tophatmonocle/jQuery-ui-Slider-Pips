@@ -7,7 +7,7 @@
 
     var extensionMethods = {
 
-        pips: function( settings ) {
+        'pips': function( settings ) {
 
             var slider = this,
                 collection = "",
@@ -350,7 +350,7 @@
 
     var extensionMethods = {
 
-        float: function( settings ) {
+        'float': function( settings ) {
 
             var slider = this,
                 $tip,
